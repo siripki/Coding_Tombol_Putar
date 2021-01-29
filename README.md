@@ -1,3 +1,3 @@
 # Coding_Tombol_Putar
 
-![RifkiArdiansah_flowchart_tubes_alpro (1)](https://user-images.githubusercontent.com/77479147/106307211-a8667900-6291-11eb-93ff-b61830fc8569.jpg)
+![RifkiArdiansah_flowchart_tubes_alpro](https://user-images.githubusercontent.com/77479147/106307489-02ffd500-6292-11eb-8975-7b5427f67a76.png)
